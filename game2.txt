@@ -1,6 +1,6 @@
-duje.nikolic.malora ima x pobjeda i y poraza!
-josko.diko ima z pobjeda i n poraza!
+duje.nikolic.malora ima 0 pobjeda i 0 poraza!
+josko.diko ima 0 pobjeda i 0 poraza!
 
 o x x
-. o o
+x o o
 x o x
